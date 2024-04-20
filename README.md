@@ -27,3 +27,9 @@ The backend serves as the core of the application, handling data processing, aut
 3. Evaluation: The backend API receives the user's answer, processes it, and provides an evaluation based on predefined criteria. The evaluation result is sent back to the frontend for display.
 4. User Interaction: Users can interact with the application by navigating through different pages, submitting answers, and viewing evaluation results. The frontend dynamically updates based on user actions and backend API responses.
 5. Security consideration: HTTPS: All communication between the client and server is encrypted using HTTPS to prevent data interception and tampering.
+
+### Demo video
+https://www.loom.com/share/ae48f9a6d0b242a4a605d1da6183cdb5?t=2
+
+### Presentation link
+https://www.canva.com/design/DAGC8sanC5Y/gwsvdOOwiiecE6LFWMRhGg/edit?utm_content=DAGC8sanC5Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
